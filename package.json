@@ -1,0 +1,27 @@
+{
+  "name": "test-vsts-api",
+  "version": "1.0.0",
+  "description": "simple test",
+  "main": "dist/simple-api-tfs2015.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhpham/test-vsts-api.git"
+  },
+  "keywords": [
+    "vsts"
+  ],
+  "author": "trinhpham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trinhpham/test-vsts-api/issues"
+  },
+  "homepage": "https://github.com/trinhpham/test-vsts-api#readme",
+  "dependencies": {
+    "@types/node": "^10.9.3",
+    "eslint": "^5.4.0",
+    "vso-node-api": "^6.5.0"
+  }
+}
